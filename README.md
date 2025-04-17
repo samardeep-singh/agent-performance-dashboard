@@ -1,4 +1,4 @@
-![Alt Text](C:\Users\lenovo\Downloads)
+
 # 🎯 Agent Performance Dashboard
 
 ## 📊 Project Overview
