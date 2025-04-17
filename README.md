@@ -1,4 +1,4 @@
-
+![Alt Text](https://github.com/samardeep-singh/agent-performance-dashboard/blob/0cc9c8b781368a5a951c98db1dbab134cfb8fa15/HRGCXIAgntPrfrmncDshBrd.png)
 # 🎯 Agent Performance Dashboard
 
 ## 📊 Project Overview
