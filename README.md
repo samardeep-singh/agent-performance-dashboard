@@ -1,3 +1,4 @@
+![Alt Text](images/logo.png)
 # 🎯 Agent Performance Dashboard
 
 ## 📊 Project Overview
