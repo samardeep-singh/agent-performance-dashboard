@@ -1,4 +1,4 @@
-![Alt Text](Green Clean Modern Customer Report Dashboard Data Graph_20250418_142637_0000.png)
+![Alt Text](https://github.com/samardeep-singh/agent-performance-dashboard/blob/553080ece22be33788333b5853e64c2184351d18/Green%20Clean%20Modern%20Customer%20Report%20Dashboard%20Data%20Graph_20250418_142637_0000.png)
 # 🎯 Agent Performance Dashboard
 
 ## 📊 Project Overview
